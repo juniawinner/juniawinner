@@ -12,7 +12,7 @@
 - 🌱 Atualmente estou aprendendo os princípios do SOLID e a realização de Testes Automotizados
 - 💬 Pergunte-me sobre **NodeJS, TypeScript e TypeORM**
 - 📫 Como chegar até mim: junia.winner@gmail.com
-- ⚡ Curiosidade: eu sou bacharel em Serviço Social 👩🏾🎓 e adoro Tecnologia 💕📱💻!
+- ⚡ Curiosidade: eu sou estudante de Engenharia de Software 👩🏾🎓 e adoro Tecnologia 💕📱💻!
 
 # 📊 GitHub Analytics
 
